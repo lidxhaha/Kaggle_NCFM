@@ -7,11 +7,10 @@
   平均。
   
 4.本程序的数据集和训练好的模型：链接：https://pan.baidu.com/s/1a2Rn8tejGDxgoNrI_Fxoow 密码：8spa
-  
-  网盘文件介绍：
-     data.rar: 数据集
-     weights_1.h5 : 25个epoch后的model
-     weights_2.h5 : 50个epoch后的model
+   网盘文件介绍：
+   data.rar: 数据集
+   weights_1.h5 : 25个epoch后的model
+   weights_2.h5 : 50个epoch后的model
 
 5. 文件介绍：
    predict.py : 不用average augmentation的在测试集上的预测
