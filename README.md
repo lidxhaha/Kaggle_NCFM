@@ -13,7 +13,7 @@ Kaggle_NCFM
 >>weights_1.h5 : 25个epoch后的model <br>
 >>weights_2.h5 : 50个epoch后的model <br>
 <br>
-5. 文件介绍：<br>
+5. 文件介绍： <br>
 >>predict.py : 不用average augmentation的在测试集上的预测 <br>
 >>predict_average_augmentation.py : 使用了average augmentation的在测试集上的预测 <br>
 >>split_train_val.py : 划分测试集和训练集 <br>
