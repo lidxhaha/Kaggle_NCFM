@@ -3,7 +3,17 @@ Kaggle_NCFM
 
 1.这是kaggle的一个比赛，主要是对各种鱼进行分类，用到了CNN，fine tune以及data augmentation, kaggle链接：https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring <br>
 各种鱼的图片数量：<br>
->ALB:
+>总计：3777
+>>ALB: 1719 <br>
+>>BET: 200  <br>
+>>DOL: 117 <br>
+>>LAG: 67 <br>
+>>SHARK: 176 <br>
+>>NoF: 465 <br>
+>>YET: 734 <br>
+>>Other: 299 <br>
+
+
 
 2.重要的是这个程序提供了一种用Keras处理图像问题的框架程序，可以供参考。 <br>
 
