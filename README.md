@@ -25,9 +25,8 @@ Kaggle_NCFM
 >>submit_2_with_predict_augmentation.csv : 跑50个epoch并且使用aveage augmentation的提交文件，分数是1.02733 <br>
 <br>
 6.思考：<br> 
-
->>跑25个epoch时，val_acc大概在0.91,跑50个epoch时，train_loss: 0.1404, train_acc: 0.9632, val_loss: 0.2187, val_acc: 0.94459；<br>
->>但是在测试集上的表现，都是25个epoch的要好，看来不能太迷信val_acc,val_acc越高，不一定测试集上的精度越高。 <br>
+>跑25个epoch时，val_acc大概在0.91,跑50个epoch时，train_loss: 0.1404, train_acc: 0.9632, val_loss: 0.2187, val_acc: 0.94459；<br>
+>但是在测试集上的表现，都是25个epoch的要好，看来不能太迷信val_acc,val_acc越高，不一定测试集上的精度越高。 <br>
 
 
 
