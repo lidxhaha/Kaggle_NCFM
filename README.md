@@ -42,17 +42,17 @@ Kaggle_NCFM
 >但是在测试集上的表现，都是25个epoch的要好，看来不能太迷信val_acc,val_acc越高，不一定测试集上的精度越高。 <br>
 
 7.进行了5折交叉验证(25个epoch)，网盘中有以下文件： <br>
->weights1.h5:   <br>
->submit1.csv:  <br>
->weights2.h5:   <br>
->submit2.csv:  <br>
+>weights1.h5:  交叉验证的第一种训练出的模型 <br>
+>submit1.csv:  交叉验证的第一种的提交文件，分数是1.03175 <br>
+>weights2.h5:  交叉验证的第二种训练出的模型 <br>
+>submit2.csv:  交叉验证的第二种的提交文件，分数是0.96406<br>
 >weights3.h5:  <br>
 >submit3.csv:  <br>
 >weights4.h5:  <br>
 >submit4.csv:  <br>
 >weights5.h5:  <br>
 >submit5.csv:  <br>
->submit_5_fold_average.csv:  <br>
+>submit_5_fold_average.csv:  以上五种交叉验证的模型的预测结果取平均，生成的提交文件，分数是0.95008！<br>
 
 
 
