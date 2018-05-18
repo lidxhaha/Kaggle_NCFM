@@ -50,9 +50,10 @@ Kaggle_NCFM
 >submit3.csv:  交叉验证的第三种的提交文件，分数是0.99161 <br>
 >weights4.h5:  交叉验证的第四种训练出的模型 <br>
 >submit4.csv:  交叉验证的第四种的提交文件，分数是1.00190 <br>
->weights5.h5:  <br>
->submit5.csv:  <br>
+>weights5.h5:  交叉验证的第五种训练出的模型 <br>
+>submit5.csv:  交叉验证的第五种的提交文件，分数是0.97767 <br>
 >submit_5_fold_average.csv:  以上五种交叉验证的模型的预测结果取平均，生成的提交文件，分数是0.95008！<br>
+由此可见交叉验证的重要作用！！
 
 
 
