@@ -46,8 +46,8 @@ Kaggle_NCFM
 >submit1.csv:  交叉验证的第一种的提交文件，分数是1.03175 <br>
 >weights2.h5:  交叉验证的第二种训练出的模型 <br>
 >submit2.csv:  交叉验证的第二种的提交文件，分数是0.96406<br>
->weights3.h5:  <br>
->submit3.csv:  <br>
+>weights3.h5:  交叉验证的第三种训练处的模型 <br>
+>submit3.csv:  交叉验证的第三种的提交文件，分数是0.99161 <br>
 >weights4.h5:  <br>
 >submit4.csv:  <br>
 >weights5.h5:  <br>
