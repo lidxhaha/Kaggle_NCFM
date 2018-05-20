@@ -35,6 +35,10 @@ Kaggle_NCFM
 >submit_1_with_predict_augmentation.csv : 跑25个epoch并且使用aveage augmentation的提交文件，分数是1.00316 <br>
 >submit_2_no_predict_augmentation.csv : 跑50个epoch并且不用aveage augmentation的提交文件，分数是1.14559 <br>
 >submit_2_with_predict_augmentation.csv : 跑50个epoch并且使用aveage augmentation的提交文件，分数是1.02733 <br>
+>combine_two_csv.py:将test_stg1生成的csv文件和test_stg2生成的csv文件按要求合并成一个用于提交的csv文件。 <br>
+>predict_average_augmentation_5_fold.py :用五折交叉验证出的五个模型的预测结果做平均（每个模型在预测时用到了average augmentation） <br>
+>split_train_val_5_fold.py: 将训练集和验证集分为5份，用于交叉验证训练模型的需要 <br>
+>train_5_fold.py: 训练5折交叉验证的程序  <br>
 <br>
 6.思考：<br> 
 
